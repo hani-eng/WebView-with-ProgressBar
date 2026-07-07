@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private WebView mywebView;
     ProgressBar progressBar;
-    String url = "https://felixmaroy.com"; //Modifier ce lien par le vôtre
+    String url = "http://www.y.net/status"; //Modifier ce lien par le vôtre
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
